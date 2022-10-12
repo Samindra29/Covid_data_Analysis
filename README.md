@@ -7,7 +7,8 @@ What I did:
 1. Used real life uncleaned data (Dataset Collected from: https://ourworldindata.org/covid-deaths)
 2. Explored Data to understand the data set on MySql Workbench
 3. Wrote SQL queries for data Visualisation
-4. Created a Tableu Dashboard (link: https://public.tableau.com/app/profile/samindra/viz/Covid19_Dashboard_16655876870330/Dashboard1?publish=yes )
+4. Created a Tableu Dashboard 
+   (link: https://public.tableau.com/app/profile/samindra/viz/Covid19_Dashboard_16655876870330/Dashboard1?publish=yes )
 
 
 ## Snippet of Dashboard
