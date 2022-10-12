@@ -11,7 +11,7 @@ What I did:
    (link: https://public.tableau.com/app/profile/samindra/viz/Covid19_Dashboard_16655876870330/Dashboard1?publish=yes )
 
 
-## Snippet of Dashboard
+## Snippet of Tableau Dashboard
 
 
 <img width="1392" alt="Screenshot 2022-10-12 at 9 37 20 PM" src="https://user-images.githubusercontent.com/59794961/195387095-93a7c363-f1a4-4465-9b16-034f8a921a71.png">
